@@ -32,3 +32,4 @@ description = "Track changes in JSON data from the command line"
 # keep defaults in sync with the manifest
 # clarify the control flow
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
